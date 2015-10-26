@@ -1,3 +1,4 @@
+//http://hawstein.com/posts/1.1.html
 #include <iostream>
 #include <cstring>
 using namespace std;
